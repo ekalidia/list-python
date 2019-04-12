@@ -1,0 +1,2 @@
+print ("TERIMAKASIH") ; input("")
+
